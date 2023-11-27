@@ -1,0 +1,10 @@
+com\example\mapper\BookMapper.class
+com\example\dto\BookDto.class
+com\example\repository\BookRepository.class
+com\example\service\BookService.class
+com\example\model\Book.class
+com\example\controller\BookController.class
+com\example\democrud\JpaConfig.class
+com\example\democrud\DemoCrudApplication.class
+com\example\controller\TestController.class
+com\example\service\impl\BookServiceImpl.class
